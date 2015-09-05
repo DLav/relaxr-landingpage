@@ -158,7 +158,7 @@ box-sizing: content-box;
   width: 100%;
   margin: auto;
   height: 500px;
-  background: url(/assignment/starter-code/images/testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
+  background: url(../images/testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
   background-size: cover;
   color: white;
   text-align: center;
